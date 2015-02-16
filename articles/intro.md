@@ -3,5 +3,5 @@
 ![][1]
 
 
-[1]: ./JeskeCode/my-articles/master/media/stayfrosty.png
+[1]: ../media/stayfrosty.png
 ![image](../media/stayfrosty.png?raw=true)

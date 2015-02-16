@@ -3,4 +3,4 @@
 ![][1]
 
 
-[1]: ./my-articles/master/media/stayfrosty.png
+[1]: .https://raw.githubusercontent.com/JeskeCode/my-articles/master/media/stayfrosty.png

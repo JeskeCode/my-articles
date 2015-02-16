@@ -26,7 +26,14 @@ insert an image
 
 > [NOTE] Indented note text.
 
-
+  - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:
+        (NSDictionary *)launchOptions
+        {
+            // Register for remote notifications
+            [[UIApplication sharedApplication] registerForRemoteNotificationTypes:
+            UIRemoteNotificationTypeAlert | UIRemoteNotificationTypeBadge | UIRemoteNotificationTypeSound];
+            return YES;
+        } 
 
 [1]: ../media/stayfrosty.png
 

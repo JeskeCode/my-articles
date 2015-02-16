@@ -18,7 +18,8 @@
 
 # Markdown template (learning)
 
-insert an image
+Image
+
 ![][1]
 
 

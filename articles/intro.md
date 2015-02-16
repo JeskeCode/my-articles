@@ -4,4 +4,4 @@
 
 
 [1]: ./JeskeCode/my-articles/master/media/stayfrosty.png
-![image](./JeskeCode/my-articles/master/media/stayfrosty.png?raw=true)
+![image](../media/stayfrosty.png?raw=true)

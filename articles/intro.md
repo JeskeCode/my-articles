@@ -3,4 +3,4 @@
 ![][1]
 
 
-[1]: ./media/stayfrosty.png
+[1]: ./my-articles/master/media/stayfrosty.png

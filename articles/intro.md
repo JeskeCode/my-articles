@@ -22,7 +22,7 @@ Image
 
 ![][1]
 
-[image](../media/stayfrosty.png?=raw=true)
+![image](../media/stayfrosty.png?=raw=true)
 
 
 ## Subheading 1

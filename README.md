@@ -1,3 +1,3 @@
 # my-articles
 
-[stayfrosty]: ./my-articles/blob/master/media/intro/stayfrosty.png
+[stayfrosty]: ./media/intro/stayfrosty.png

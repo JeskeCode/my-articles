@@ -26,7 +26,7 @@ insert an image
 
 > [NOTE] Indented note text.
 
-## Subheading 3
+## Subheading 2
  
 1. Maecenas sed condimentum nisi. Suspendisse potenti. 
 

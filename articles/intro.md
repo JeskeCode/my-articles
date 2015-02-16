@@ -36,19 +36,7 @@ Image
   + Sem
 
 
-<h2>Table of Contents</h2>
 
--   [What is ACS?][]
--   [Concepts][]
--   [Prerequisites][]
--   [Create an Access Control Namespace][]
--   [Create an ASP.NET MVC Application][]
--   [Integrate your Web Application with ACS][]
--   [Test the Integration with ACS][]
--   [View Claims Sent By ACS][vcsb]
--   [View the Application in the ACS Management Portal][vpp]
--   [Add an Identity Provider][]
--   [What's Next][]
 
 
 

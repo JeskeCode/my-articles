@@ -24,7 +24,7 @@ insert an image
 
 ## Subheading 1
 
-> [AZURE.NOTE] Indented note text.
+> [NOTE] Indented note text.
 
 
 
